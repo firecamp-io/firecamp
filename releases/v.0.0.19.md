@@ -3,13 +3,13 @@
 ------------------
 
 #### Bug Fixes:
-- Refresh project panel after the renaming module name 
+- Refresh the project panel after the renaming module name 
 - Socket and Home tab Tour guide UI fixes
 
 #### Feature Enhancement:
 - Project, Module and Request name validation improved 
 - Overall UI improved
-- Home tab UI enhanced with introduing two tools (Markdown & Converter)
+- Home tab UI enhanced with introducing two tools (Markdown & Converter)
 
 #### New Features:
 - Tools added:
