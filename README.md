@@ -6,6 +6,8 @@ Firecamp provides dedicated GUI clients for Realtime, REST and GraphQL technolog
 
 https://firecamp.app/docs/installation/
 
+![Firecamp](https://user-images.githubusercontent.com/5078921/65707952-28337080-e0ab-11e9-87c9-6d46796ad6cc.png "A campsite for developers")
+
 
 <details>
   <summary>GraphQL Playground </summary>
