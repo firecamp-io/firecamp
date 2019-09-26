@@ -7,4 +7,4 @@ Firecamp provides dedicated GUI clients for Realtime, REST and GraphQL technolog
 [Install Firecamp](https://chrome.google.com/webstore/detail/firecamp/eajaahbjpnhghjcdaclbkeamlkepinbl).
 
 
-![Firecamp](https://lh3.googleusercontent.com/QooDid3oNoQwC-rGXjJlU676OqAgt5ohXP_4LEKozLNLEk-dZJSyBTVheo6IfvT2o9ayhMJckUo=w640-h400-e365 "A campsite for developers")
+![Firecamp](https://user-images.githubusercontent.com/5078921/65705410-02579d00-e0a6-11e9-8768-b6d3feb020a9.png "A campsite for developers")
