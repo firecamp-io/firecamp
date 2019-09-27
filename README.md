@@ -1,6 +1,8 @@
 
 # Firecamp
-Firecamp provides dedicated GUI clients for Realtime, REST and GraphQL technologies. In addition, it serves the multi-purpose DevTools which helps developers to solve their daily life problems. Firecamp helps to boost the development, remove the team dependencies and improve productivity.
+A centralized platform for various GUI clients like **API, WebSocket, and GraphQL** which helps to accelerate the current development workflow.
+
+Moreover, it serves the multi-purpose DevTools which assists developers to deal with their problems. Firecamp boosts the development process, removes the team dependencies and improves productivity. Indeed, it's a **campsite for developers** which facilitates developers to build, enhance and test their end-points.
 
 ### Download (Web, Mac, Linux, Windows)
 
