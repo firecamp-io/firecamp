@@ -1,5 +1,7 @@
 
-# Firecamp
+![AsyncAPI development studio](https://user-images.githubusercontent.com/5078921/66629286-ebc15200-ec1e-11e9-9e59-d4936771f1ba.png)
+
+# Firecamp - AsyncAPI development studio
 A centralized platform for various GUI clients like **API, WebSocket, and GraphQL** which helps to accelerate the current development workflow.
 
 Moreover, it serves the multi-purpose DevTools which assists developers to deal with their problems. Firecamp boosts the development process, removes the team dependencies and improves productivity. Indeed, it's a **campsite for developers** which facilitates developers to build, enhance and test their end-points.
