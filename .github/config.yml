@@ -1,0 +1,9 @@
+# Configuration for the-welcome-bot - https://github.com/bash-bot/the-welcome-bot
+
+# Message for a new user who open an issue
+issueOpen: >
+  Welcome to the Firecamp!
+  Thanks and congrats for opening your very first issue in this project.
+
+  Join the Discord community here https://discord.gg/8hRaqhK
+  Hope you have a great time here :)
