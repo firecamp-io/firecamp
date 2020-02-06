@@ -1,9 +1,17 @@
-# Configuration for the-welcome-bot - https://github.com/bash-bot/the-welcome-bot
-
-# Message for a new user who open an issue
-issueOpen: >
+# Comment to be posted to on first time issues
+newIssueWelcomeComment: >
   Welcome to the Firecamp!
-  Thanks and congrats for opening your very first issue in this project.
+  Thanks and congrats for opening your very first issue in Firecamp.
 
   Join the Discord community here https://discord.gg/8hRaqhK
   Hope you have a great time here :)
+  
+# Comment to be posted to on PRs from first time contributors in your repository
+# newPRWelcomeComment: >
+#  Thanks for opening this pull request! Please check out our contributing guidelines.
+
+# Configuration for first-pr-merge - https://github.com/behaviorbot/first-pr-merge
+
+# Comment to be posted to on pull requests merged by a first time user
+# firstPRMergeComment: >
+#  Congrats on merging your first pull request! We here at behaviorbot are proud of you!
