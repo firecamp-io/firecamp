@@ -8,7 +8,7 @@ Moreover, it serves the multi-purpose DevTools which assists developers to deal 
 
 ### Download (Web, Mac, Linux, Windows)
 
-https://firecamp.app/docs/installation/
+http://firecamp.io/downloads
 
 ![Firecamp](https://user-images.githubusercontent.com/5078921/65707952-28337080-e0ab-11e9-87c9-6d46796ad6cc.png "A campsite for developers")
 
