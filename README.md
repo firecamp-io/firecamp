@@ -9,24 +9,24 @@ Moreover, it serves the multi-purpose DevTools which assists developers to deal 
 
 http://firecamp.io/downloads
 
-![Firecamp](https://user-images.githubusercontent.com/5078921/65707952-28337080-e0ab-11e9-87c9-6d46796ad6cc.png "A campsite for developers")
+![Firecamp](https://raw.githubusercontent.com/shreya-gr/Firecamp/master/images/Firecamp%20FireHome.png "A campsite for developers")
 
 
 <details>
   <summary>API Client</summary>
 
-![Firecamp](https://user-images.githubusercontent.com/5078921/65705828-cec94280-e0a6-11e9-9f11-98f8532c8501.png "A campsite for developers")
+![Firecamp](https://raw.githubusercontent.com/shreya-gr/Firecamp/master/images/Firecamp%20RestAPI.png "A campsite for developers")
 </details>
 
 <details>
   <summary>GraphQL Playground </summary>
   
-![Firecamp](images/Firecamp GraphQL Playground.png "A campsite for developers")
+![Firecamp](https://raw.githubusercontent.com/shreya-gr/Firecamp/master/images/Firecamp%20GraphQL%20Playground.png "A campsite for developers")
 </details>
 
 
 <details>
   <summary>WebSocket Client</summary>
 
-![Firecamp](https://user-images.githubusercontent.com/5078921/65705828-cec94280-e0a6-11e9-9f11-98f8532c8501.png "A campsite for developers")
+![Firecamp](https://raw.githubusercontent.com/shreya-gr/Firecamp/master/images/Firecamp%20WebSocket%20client.png "A campsite for developers")
 </details>
