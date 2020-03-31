@@ -9,7 +9,7 @@ Moreover, it serves the multi-purpose DevTools which assists developers to deal 
 
 http://firecamp.io/downloads
 
-![Firecamp](https://raw.githubusercontent.com/shreya-gr/Firecamp/master/images/Firecamp%20FireHome.png "A campsite for developers")
+![Firecamp](https://raw.githubusercontent.com/shreya-gr/Firecamp/master/images/What%20is%20Firecamp.gif "A campsite for developers")
 
 
 <details>
