@@ -1,5 +1,4 @@
-
-![Protocol Agnostic API Testing client](https://user-images.githubusercontent.com/5078921/66629286-ebc15200-ec1e-11e9-9e59-d4936771f1ba.png)
+<img src="https://raw.githubusercontent.com/firecampapp/art/master/logos/full-logo.png?token=ABGX7CIPHTX3PLT5GKXJ4S26WVW7S" alt="Firecamp" width="480"/>
 
 # Firecamp - Protocol agnostic API testing client
 Firecamp helps you to test and manage APIs of your choice. Firecamp provides dedicated client to test out **HTTPs, WebSocket and GraphQL endpoints** delivered as the single platform
