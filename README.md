@@ -1,4 +1,5 @@
-<img src="https://raw.githubusercontent.com/firecampapp/art/master/logos/full-logo.png?token=ABGX7CIZAHXEBGX2662Q7JS6WVXVM" alt="Firecamp" width="480"/>
+
+<img src="https://firecamp.ams3.digitaloceanspaces.com/images/full-logo.png" alt="Firecamp" width="480"/>
 
 # APIs Campsite For Modern Teams
 Firecamp helps you to test and manage APIs of your choice. Firecamp provides dedicated client to test out **HTTPs, WebSocket and GraphQL endpoints** delivered as the single platform
