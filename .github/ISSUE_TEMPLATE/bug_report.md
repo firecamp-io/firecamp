@@ -26,8 +26,7 @@ If applicable, add screenshots to help explain your problem.
 **Platform (please complete the following information):**
  - Type:  [ Desktop or Chrome Extension ]
  - OS: [ eg Mac OS ]
- - Platform: Desktop App 
- - Version: [ eg v1.2.7 ]
+ - Firecamp Version: [ eg v1.2.7 ]
 
 **Additional context**
 Add any other context about the problem here.
