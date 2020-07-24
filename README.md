@@ -15,18 +15,18 @@ http://firecamp.io/downloads
 <details>
   <summary>API Client</summary>
 
-![Firecamp](https://raw.githubusercontent.com/shreya-gr/Firecamp/master/images/Firecamp%20RestAPI.png "A campsite for developers")
+![Firecamp](https://raw.githubusercontent.com/shreya-gr/Firecamp/master/images/http.png "A campsite for developers")
 </details>
 
 <details>
   <summary>GraphQL Playground </summary>
   
-![Firecamp](https://raw.githubusercontent.com/shreya-gr/Firecamp/master/images/Firecamp%20GraphQL%20Playground.png "A campsite for developers")
+![Firecamp](https://raw.githubusercontent.com/shreya-gr/Firecamp/master/images/graphql.png "A campsite for developers")
 </details>
 
 
 <details>
   <summary>WebSocket Client</summary>
 
-![Firecamp](https://raw.githubusercontent.com/shreya-gr/Firecamp/master/images/Firecamp%20WebSocket%20client.png "A campsite for developers")
+![Firecamp](https://raw.githubusercontent.com/shreya-gr/Firecamp/master/images/ws.png "A campsite for developers")
 </details>
