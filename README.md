@@ -1,5 +1,5 @@
 
-<img src="https://github.com/firecampapp/Firecamp/blob/master/images/full-logo.png" alt="Firecamp" width="480"/>
+<img src="https://raw.githubusercontent.com/firecamp-io/Firecamp/main/images/full-logo.png" alt="Firecamp" width="480"/>
 
 # APIs Campsite For Modern Teams
 Firecamp is a Multi-protocol API Platform for API development. It offers dedicated GUI clients, tools, and services agnostically protocols and API-styles like Rest, GraphQL, MQTT, WS, Kafka, etc.
