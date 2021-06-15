@@ -2,7 +2,7 @@
 <img src="https://raw.githubusercontent.com/firecamp-io/Firecamp/main/images/full-logo.png" alt="Firecamp" width="480"/>
 
 # APIs Campsite For Modern Teams
-Firecamp is a Multi-protocol API Platform for API development. It offers dedicated GUI clients, tools, and services agnostically protocols and API-styles like Rest, GraphQL, MQTT, WS, Kafka, etc.
+Firecamp is a multi-protocol API development platform. It offers dedcaited GUI clients, tools annd services for legacy and modern protocols and styles like Http/Rest, GraphQL, WebSocket, MQTT etc.
 
 ### Download (Web, Mac, Linux, Windows)
 
