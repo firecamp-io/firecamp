@@ -7,26 +7,25 @@ assignees: ''
 
 ---
 
-**Describe the bug**
+#### 1. Describe the bug, what it is and what it should be (expected behaviour)
+
 A clear and concise description of what the bug is.
 
-**To Reproduce**
+#### 2. To Reproduce
 Steps to reproduce the behavior:
 1. Go to '...'
-2. Click on '....'
-3. Scroll down to '....'
-4. See error
+2. 
 
-**Expected behavior**
-A clear and concise description of what you expected to happen.
 
-**Screenshots 0r Video**
+#### 3. Screenshots/GIF/Video?
 If applicable, add screenshots to help explain your problem.
 
-**Platform (please complete the following information):**
- - Type:  [ Desktop or Chrome Extension ]
- - OS: [ eg Mac OS ]
- - Firecamp Version: [ eg v1.2.7 ]
+#### 4. Additional context
+anything you want to share additially.
 
-**Additional context**
-Add any other context about the problem here.
+-----
+
+##### Platform (please complete the following information):
+ - Firecamp Version: [ eg v2.0.0 ]
+ - Type: Desktop/Web/Chrome Extension
+ - OS: Mac/Linux/Win
