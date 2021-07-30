@@ -1,7 +1,7 @@
 
 # Firecamp
 #### APIs campsite for modern teams
-Firecamp is a multi-protocol API development platform. It offers dedcaited GUI clients, tools and services for legacy to modern protocols and styles like Http/Rest, GraphQL, WebSocket, MQTT etc.
+Firecamp is a multi-protocol API development platform. It offers dedicated GUI clients, tools, and services for legacy to modern protocols and styles like HTTP/Rest, GraphQL, WebSocket, MQTT, etc.
 
 #### Firecamp is
 - **an open source:** Api development platform
